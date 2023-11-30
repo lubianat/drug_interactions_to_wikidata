@@ -1,0 +1,180 @@
+id,name,qid
+10021036,Hyponatraemia,Q824292
+10014387,Electrocardiogram QT prolonged,Q653924
+10055798,Haemorrhage,Q7317047
+10006093,Bradycardia,Q2995544
+10044066,Torsade de pointes,Q1625433
+10021015,Hypokalaemia,Q17122103
+10021097,Hypotension,Q275419
+10065553,Bone marrow failure,Q7882181
+10029155,Nephropathy toxic,Q1468324
+10039020,Rhabdomyolysis,Q917069
+10020646,Hyperkalaemia,Q605259
+10018001,Gastrointestinal perforation,Q279324
+10017955,Gastrointestinal haemorrhage,Q123562703
+10005750,Blood pressure increased,Q123562711
+10020802,Hypertensive crisis,Q25303605
+10015124,Ergot poisoning,Q955948
+10033109,Ototoxicity,Q1351381
+10009799,Coagulation time prolonged,Q21112198
+10061924,Pulmonary toxicity,Q2100012
+10008629,Cholelithiasis,Q7069348
+10020947,Hypocalcaemia,Q936382
+10046851,Uveitis,Q280027
+10009192,Circulatory collapse,Q5121708
+10078904,Idiopathic intracranial hypertension,Q741208
+10047139,Vasoconstriction,Q1067506
+10069339,Acute kidney injury,Q424337
+10029350,Neurotoxicity,Q7830379
+10069140,Myocardial depression,Q123562724
+10019851,Hepatotoxicity,Q1349821
+10029331,Neuropathy peripheral,Q945238
+10003671,Atrioventricular block,Q300121
+10061169,Embolism,Q275466
+10062237,Renal impairment,Q476921
+10002034,Anaemia,Q5445
+10024384,Leukopenia,Q496812
+10021114,Hypothyroidism,Q16501
+10020772,Hypertension,Q95566669
+10012373,Depressed level of consciousness,Q123562764
+10020751,Hypersensitivity,Q5958765
+10001022,Acute psychosis,Q18967729
+10062886,Procedural hypertension,Q123562776
+10027423,Metabolic alkalosis,Q1428362
+10007515,Cardiac arrest,Q1326997
+10048610,Cardiotoxicity,Q2118956
+10028641,Myopathy,Q692536
+10038678,Respiratory depression,Q3044895
+10021333,Ileus paralytic,Q18557941
+10070863,Toxicity to various agents,Q274160
+10028622,Myoclonus,Q3816650
+10048294,Mental status changes,Q123562799
+10020843,Hyperthermia,Q242165
+10047302,Ventricular tachycardia,Q21235512
+10013754,Drug withdrawal syndrome,Q4420149
+10022437,Insomnia,Q7539766
+10033371,Pain,Q4073307
+10028813,Nausea,Q186889
+10020642,Hyperhidrosis,Q935781
+10002855,Anxiety,Q154430
+10039906,Seizure,Q6279182
+10047700,Vomiting,Q127076
+10033557,Palpitations,Q1123260
+10059024,Gastrointestinal toxicity,Q11238211
+10043554,Thrombocytopenia,Q585285
+10028124,Mucosal ulceration,Q3245680
+10061459,Gastrointestinal ulcer,Q172941
+10029354,Neutropenia,Q1435822
+10034576,Peripheral ischaemia,Q123562858
+10011198,Cortisol decreased,Q110938301
+10011652,Cushing's syndrome,Q219102
+10020741,Hyperpyrexia,Q102187218
+10019211,Headache,Q67841409
+10005725,Blood potassium increased,Q605259
+10002065,Anaemia megaloblastic,Q10832211
+10033661,Pancytopenia,Q1757427
+10051779,Bone marrow toxicity,Q123562892
+10043071,Tachycardia,Q209583
+10003119,Arrhythmia,Q189331
+10040738,Sinus arrest,Q7524810
+10048007,Withdrawal hypertension,Q123562911
+10019301,Heart rate decreased,Q123562923
+10068180,Atrioventricular conduction time shortened,Q123563197
+10003673,Atrioventricular block complete,Q3640984
+10007559,Cardiac failure congestive,Q19000661
+10040741,Sinus bradycardia,Q2995544
+10008635,Cholestasis,Q1075923
+10033775,Paraesthesia,Q769220
+10042772,Syncope,Q180007
+10005734,Blood pressure decreased,Q123563222
+10002424,Angioedema,Q1129007
+10005483,Blood creatinine increased,Q123563671
+10022595,International normalised ratio increased,Q123563729
+10009800,Coagulation time shortened,Q123563684
+10022594,International normalised ratio decreased,Q123563736
+10007595,Cardiac output decreased,Q123563684
+10037660,Pyrexia,Q38933
+10012735,Diarrhoea,Q40878
+10047571,Visual impairment,Q737460
+10036661,Priapism,Q156590
+10021027,Hypomagnesaemia,Q3771629
+10060795,Hepatic enzyme increased,
+10007554,Cardiac failure,Q181754
+10031127,Orthostatic hypotension,Q7104966
+10014363,Electrocardiogram abnormal,Q123563761
+10016825,Flushing,Q3443277
+10030095,Oedema,Q3143800
+10047281,Ventricular arrhythmia,Q21402560
+10006482,Bronchospasm,Q279330
+10043458,Thirst,Q474187
+10003549,Asthenia,Q633403
+10044565,Tremor,Q2149420
+10010305,Confusional state,Q160796
+10043248,Tendon rupture,Q40889763
+10028372,Muscular weakness,Q270421
+10020993,Hypoglycaemia,Q477390
+10023676,Lactic acidosis,Q1500373
+10033645,Pancreatitis,Q1527888
+10019663,Hepatic failure,Q68663705
+10061188,Haematotoxicity,Q123563798
+10010774,Constipation,Q5508805
+10001551,Alanine aminotransferase increased,Q123563804
+10037068,Prothrombin time ratio increased,Q123563976
+10005169,Blindness,Q10874
+10034960,Photophobia,Q281289
+10015958,Eye pain,Q21077147
+10014755,Endometrial hyperplasia,Q686574
+10034133,Pathogen resistance,
+10029314,Neuromuscular block prolonged,
+10033799,Paralysis,Q1126769
+10015832,Extrapyramidal disorder,Q1385411
+10014625,Encephalopathy,Q576349
+10013916,Dyskinesia,Q629444
+10067967,Brain injury,Q3280669
+10063927,Orthostatic intolerance,Q7104932
+10021328,Ileus,Q738153
+10039897,Sedation,Q574801
+10013781,Dry mouth,Q1162276
+10001949,Amnesia,Q3612627
+10021118,Hypotonia,Q1753547
+10057668,Cognitive disorder,Q3065932
+10052904,Musculoskeletal stiffness,Q1345732
+10079741,Sedation complication,Q123564130
+10046555,Urinary retention,Q1366695
+10020745,Hyperreflexia,Q1429154
+10029864,Nystagmus,Q220989
+10003591,Ataxia,Q213373
+10029315,Neuromuscular blockade,Q73229653
+10039740,Screaming,Q1932016
+10020635,Hyperglycaemia,Q271993
+10021664,Increased insulin requirement,Q123564137
+10005414,Blood catecholamines increased,Q123564142
+10027940,Mood altered,Q7933601
+10010947,Coordination abnormal,Q123564146
+10061422,Abnormal behaviour,Q123564153
+10013036,Diplopia,Q113579942
+10002974,Apnoea,Q754424
+10010071,Coma,Q159557
+10072268,Drug-induced liver injury,Q1349821
+10009848,Cogwheel rigidity,Q143877
+10017577,Gait disturbance,Q827017
+10024264,Lethargy,Q15637420
+10012218,Delirium,Q15640367
+10041349,Somnolence,Q1077823
+10013573,Dizziness,Q57823162
+10022998,Irritability,Q29299
+10001854,Altered state of consciousness,Q852859
+10001680,Alkalosis,Q1969062
+10011207,Cortisol increased,Q123564170
+10020910,Hyperventilation,Q2251578
+10016256,Fatigue,Q9690
+10000489,Acidosis hyperchloraemic,Q5957852
+10047340,Vertigo,Q10686316
+10043882,Tinnitus,Q192309
+10011878,Deafness,Q12133
+10037070,Prothrombin time shortened,Q123564178
+10030124,Oedema peripheral,Q7168709
+10026983,Mean arterial pressure decreased,
+10047106,Vascular resistance systemic decreased,
+10001497,Agitation,Q394129
+10043089,Tachypnoea,Q570920
